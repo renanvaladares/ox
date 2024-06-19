@@ -17,8 +17,8 @@
   }
   
   .card .card_image {
-    width: inherit;
-    height: inherit;
+    width: 30%;
+    height: auto;
     border-radius: 40px;
   }
   
